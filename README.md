@@ -27,4 +27,3 @@ Organization of the Kubernetes Community Days in Austria
 * [ ] Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
 * [ ] Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
 * [ ] Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username# keptn-config-demo
-# keptn-config-demo
