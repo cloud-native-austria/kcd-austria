@@ -8,6 +8,9 @@ Organization of the Kubernetes Community Days in Austria
 * [X] Event Location: Cineplexx Wienerberg, Vienna, Austria
 * [X] Event Type: In person
 
+## Sponsors
+Find our sponsoring prospectus [here](https://drive.google.com/file/d/1kr7ZHfazT4n2zovC8PXLyemmc2leRRKc/view).
+
 ## Meetings and Communication
 * Currently, every Tuesday at 16:00 CET
 * Agenda and Notes: https://docs.google.com/document/d/1pCSifd23tgrom8caBWQCMKJGNWjRM82A9wF2hS5wg7Y/edit#
