@@ -2,11 +2,14 @@
 Organization of the Kubernetes Community Days in Austria
 
 ## Event Details
-* [ ] Event Date and Time **(not fixed)**:  September 26th - 28th, 2023
+* [X] Event Date and Time:  September 26th - 27th, 2023
 * [X] Expected Number of Attendees: ~250
-* [ ] Event cost per ticket, and if you will have early bird pricing or not
-* [X] Event Location: Vienna, Austria
+* [X] Event cost per ticket, Early-bird 150, Standard 187.5, Late 200
+* [X] Event Location: Cineplexx Wienerberg, Vienna, Austria
 * [X] Event Type: In person
+
+## Sponsors
+Find our sponsoring prospectus [here](https://drive.google.com/file/d/1kr7ZHfazT4n2zovC8PXLyemmc2leRRKc/view).
 
 ## Meetings and Communication
 * Currently, every Tuesday at 16:00 CET
@@ -24,6 +27,7 @@ Organization of the Kubernetes Community Days in Austria
 | [Venue Organizer Team](./ROLES.md#venue-organiser-role):     | @AloisReitbauer <BR> @shakaluu |
 
 ## Official Organizers
-* [ ] Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
-* [ ] Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
-* [ ] Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username# keptn-config-demo
+* Erik Auer, WhizUs GmbH, CEO, erik.auer@whizus.com, Erik Auer
+* David Hirsch, Dynatrace, OSPO Program Manager, David.hirsch@dynatrace.com, David Hirsch
+* David Leitner, SQUER Solutions GmbH Co-Founder, david@squer.io, David Leitner
+* Daniel Drack, FullStackS GmbH, Senior DevOps/SRE Engineer, daniel@drackthor.me, Daniel Drack
