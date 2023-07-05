@@ -23,8 +23,8 @@ Find our sponsoring prospectus [here](https://drive.google.com/file/d/1kr7ZHfazT
 | [Finance Team](./ROLES.md#finance-role):                     | @erikauer <BR> @duffleit       |
 | [Marketing Team](./ROLES.md#marketing-role):                 | @duffleit <BR> @Saim-Safdar    |
 | [Speaker Organizer Team](./ROLES.md#speaker-organiser-role): | @henrikrexed <BR> @DrackThor   |
-| [Sponsor Organizer Team](./ROLES.md#sponsor-organiser-role): | David Reyzek <BR> @niklas447   |
-| [Venue Organizer Team](./ROLES.md#venue-organiser-role):     | @AloisReitbauer <BR> @shakaluu |
+| [Sponsor Organizer Team](./ROLES.md#sponsor-organiser-role): | @tomstagl <BR> @jgrumboe   |
+| [Venue Organizer Team](./ROLES.md#venue-organiser-role):     | @erikauer <BR> @thschue |
 
 ## Official Organizers
 * Erik Auer, WhizUs GmbH, CEO, erik.auer@whizus.com, Erik Auer
