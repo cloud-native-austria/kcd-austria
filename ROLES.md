@@ -1,4 +1,5 @@
 # Roles for KCD Austria
+
 In the core team for the organisation of the event we have the following roles:
 
 ## Coordinator Role
