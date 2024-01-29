@@ -1,0 +1,37 @@
+# KCD Austria 2023 Sessions
+
+| Speaker                           | Session                                                                           | YouTube | Slides |
+|--------                           | -------                                                                           | ------- | ------ |
+| Thomas Schuetz/Daniel Drack       | Building a Cloud Native Austria                                                   | [YouTube](https://www.youtube.com/watch?v=uwFCvTjNjqU) | [Slides]() |
+| Adnan Rahić                       | Distributed tracing is awesome, testing is not… until now.                        | [YouTube](https://www.youtube.com/watch?v=ih7S-HXdo_Y) | [Slides](https://docs.google.com/presentation/d/1K9XEviDS0myMwdMuGu7pnviT9P2h8uIJPHbV-50M7sQ/edit#slide=id.g2553c0ec76f_0_160) |
+| Patrick Pichler                   | Kubeletorsaurus Wrecks                                                            | [YouTube](https://www.youtube.com/watch?v=_sPp-vvFh1E) | [Slides](https://patrickpichler.dev/kubeletosaurus/) |
+| Sonja Chevre                      | Bad API Observability                                                             | [YouTube](https://www.youtube.com/watch?v=9po5fBjdSlo) | [Slides](https://www.slideshare.net/SonjaChevre/bad-api-observability-kcd-austria-2023) |
+| Max Körbächer                     | Building your own WASM cloud with Fermyon                                         | [YouTube](https://www.youtube.com/watch?v=NNUu2sYwmSg) | [Slides]() |
+| Philip Miglinci                   | A Kubernetes Operator story from idea to cloud integration                        | [YouTube](https://www.youtube.com/watch?v=NXsaS8UJ8tI) | [Slides]() |
+| Robert Gutschale                  | Looking into the rabbithole of virtualized K8s clusters                           | [YouTube](https://www.youtube.com/watch?v=kf2Sv8Itd2o) | [Slides](https://docs.google.com/presentation/d/1uTwuMX8HWej7qtn3XhZGu5Xeq28j5kNMWqp5y8yTUzs/edit?usp=sharing) |
+| Nicolas Vermandé                  | Self-healing Clusters: Game of Nodes and the Scaling Throne                       | [YouTube](https://www.youtube.com/watch?v=KH0toYryNNc) | [Slides]() |
+| Jose Javier Alonso                | Monitoring as Code: Managing your observability assets the cloud native way       | [YouTube](https://www.youtube.com/watch?v=h5bxGyFVh6E) | [Slides]() |
+| Laszlo Fogas / Youcef Guichi      | How and when to Flux your Terraform                                               | [YouTube](https://www.youtube.com/watch?v=AgbIdY8T8nE) | [Slides](https://drive.google.com/file/d/1o-o0I7En5zDp7O3XF10eyEq_8_7ahvBL/view?usp=sharing) |
+| Andrii Soldatenko                 | Debugging in golang apps inside k8s environment                                   | [YouTube](https://www.youtube.com/watch?v=Cc6XhnrOQHQ) | [Slides](https://drive.google.com/file/d/1-6ERQda23o7OiLHziz4wwgvdFWS0kyv8/view) |
+| Lukonde Mwila                     | Cheap Routes, Fast Paths & Keeping Track                                          | [YouTube](https://www.youtube.com/watch?v=wo_dWFCEYGY) | [Slides]() |
+| Ivan Merrill                      | Observability for developers                                                      | [YouTube](https://www.youtube.com/watch?v=uZmnPdDLMiQ) | [Slides]() |
+| Christian Köberl                  | Supply Chain Security using Free and Open Tools                                   | [YouTube](https://www.youtube.com/watch?v=gLlukjXOXP4) | [Slides](https://derkoe.dev/2023-09-KCD-Austria-Supply-Chain-Security.pdf) |
+| Lenka Bočincová                   | How to boost your community awareness by writing                                  | [YouTube](https://www.youtube.com/watch?v=K4LLKia4bxA) | [Slides]() |
+| Jona Apelbaum                     | The Future of Service Meshes: sidecarless or eBPF?                                | [YouTube](https://www.youtube.com/watch?v=sbVmgly_nEA) | [Slides]() |
+| Standa Láznička                   | Bringing Pod Security Admission to Your Kubernetes Distribution                   | [YouTube](https://www.youtube.com/watch?v=VnUJIIFBsTs) | [Slides]() |
+| Daniel Kopeinig/Markus Falkner    | GitOps in a Federated and Regulated Environment at RBI                            | [YouTube](https://www.youtube.com/watch?v=qIbgyXXPNbU) | [Slides]() |
+| Carlos Eduardo Arango Gutierrez   | Streamline Your Cluster with Automated Node Labels, Taints and Annotations        | [YouTube](https://www.youtube.com/watch?v=64ItTDaT7tA) | [Slides]() |
+| Maksim Nabokikh                   | Making your Kubernetes-based log collection reliable & durable with Vector        | [YouTube](https://www.youtube.com/watch?v=By-qWGT62ak) | [Slides](https://drive.google.com/file/d/1Wfhp8TNu06v7KpeoPPHT1bGEPRrP9kUF/view?usp=sharing) |
+| Thomas Schuetz                    | Solving Kubernetes Mysteries with K8sGPT                                          | [YouTube](https://www.youtube.com/watch?v=6R6KD5Chdeo) | [Slides]() |
+| Patrick Buchner                   | Scaling Kubernetes in an Enterprise Environment across distributed Teams          | [YouTube]() | [Slides]() |
+| Wouter Ligtenberg                 | How ING Accelerated Kubernetes Deployments Across 500+ Applications               | [YouTube](https://www.youtube.com/watch?v=yDpj3XbAh0Y) | [Slides]() |
+| Antonio Berben                    | Istio Ambient Mesh: Sidecar vs Sidecar-less like if I am 10 years old             | [YouTube](https://www.youtube.com/watch?v=5ogEtZniUCE) | [Slides]() |
+| Felix Hochleitner                 | GitOps powered CICD - glueing it together with Argo Workflows, Events             | [YouTube](https://www.youtube.com/watch?v=XaGstS_3IAc) | [Slides](https://docs.google.com/presentation/d/1sbYJt1nR6bVheSvZ-VEFi-9-5GIdJtYfAlqgvjET8GE/) |
+| David Leitner                     | Platform Engineering beyond the Buzzword?                                         | [YouTube](https://www.youtube.com/watch?v=iX515EI23aA) | [Slides]() |
+| Cristina de Dios Gonzalez         | External Secrets Operator                                                         | [YouTube](https://www.youtube.com/watch?v=RIhBLxdYY_w) | [Slides]() |
+| Marc Nimmerrichter                | Kubernetes Security - Challenge and Opportunity?                                  | [YouTube](https://www.youtube.com/watch?v=yMro4PmKmaw) | [Slides]() |
+| Arthur Berezin                    | 4 Common Pitfalls when Adopting Backstage                                         | [YouTube](https://www.youtube.com/watch?v=yMro4PmKmaw) | [Slides]() |
+| Liz Rice                          | Cloud Native Superpowers with eBPF                                                | [YouTube](https://www.youtube.com/watch?v=tJFKACcDZmI) | [Slides](https://drive.google.com/file/d/16phv0tLHcMyMe5yvY8fGRnEAt92am3kf/view?usp=drive_link) |
+| Anais Urlichs                     | Back to the Future in the space of cloud native security                          | [YouTube](https://www.youtube.com/watch?v=eyvNKmm59qs) | [Slides]() |
+| Antonio Berben                    | Isio Ambient Mesh: Sidecar vs Sidecar-less                                        | [YouTube](https://www.youtube.com/watch?v=5ogEtZniUCE) | [Slides]() |
+| Constanze Roedig                  | Keynote: Opening the Ivory Tower                                                  | [YouTube](https://www.youtube.com/watch?v=RT9k5895jRk) | [Slides](https://drive.google.com/file/d/1_IG7fUbIqon3XWoiHDhHepccwpvR8-BX/view?usp=share_link) |
