@@ -5,7 +5,7 @@ Organization of the Kubernetes Community Days in Austria
 ## Event Details
 
 * [x] CNCF Issue [#517](https://github.com/cncf/kubernetes-community-days/issues/517)
-* [X] Event Date and Time:  8.-10.10.2024
+* [X] Event Date and Time:  8.-10. October 2024
 * [X] Event Location: Cineplexx Wienerberg, Vienna, Austria
 * [X] Event Type: In person
 * [ ] Expected Number of Attendees:
