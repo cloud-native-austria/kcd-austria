@@ -26,9 +26,10 @@
     - Badges (don't forget QR codes)
     - T-Shirts (distinguish participants, speakers, organizers & volunteers depending on price) - have female sizes too, ask for tshirt sizes during registration
 - Social Media Graphics
-  - Let's use Canva
+  - Let's use Canva but upload all finished assets to Google Drive
   - Speaker card - distinguish between speakers & keynote speakers
   - Sponsor card
+  - Check [timeline](https://github.com/orgs/cloud-native-austria/projects/11/views/2) for additional graphics to create
 - Photographer
   - Let's bring it up in the general sync
   - If yes, it would be nice to have pictures of all speakers
