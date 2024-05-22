@@ -8,18 +8,30 @@ Organization of the Kubernetes Community Days in Austria
 * [X] Event Date and Time:  8.-10. October 2024
 * [X] Event Location: Cineplexx Wienerberg, Vienna, Austria
 * [X] Event Type: In person
-* [ ] Expected Number of Attendees:
-* [ ] Event cost per ticket:
+* [X] Expected Number of Attendees: ~500
+* [X] Event cost per ticket: 120€ (early bird) / 150€
 
 ## Sponsors
 
-Find our sponsoring prospectus:
+Find our [sponsoring prospectus](https://drive.google.com/file/d/1BTvt8IpZFnhstSCKX_y3V-YNmp8ZGdi0/view?usp=share_link)
 
 ## Meetings and Communication
 
 * Currently, every second Wednesday at 4.30pm CET
 * Agenda and Notes: [GDoc](https://docs.google.com/document/d/1pCSifd23tgrom8caBWQCMKJGNWjRM82A9wF2hS5wg7Y/edit#)
 * Slack: CNCF Channel [#kcd-austria](https://cloud-native.slack.com/channels/kcd-austria)
+
+## Organizer Decisions
+
+- mutual promotion of KCD Munich and KCD Zurich
+- use Sessionize for CfP
+- no dedicated speaker slots will be “sold” to sponsors
+- using Buffer for social media posts
+- we will not tie mentorship/diversity program to "free tickets", it should be a separate program
+- we will pay travel & accomodation for keynote speakers
+- event MC: Constanze / Daniel
+- speakers CfP: Submissions will not be editable after submitting, that will ease the process of reviewing, reviews can happen as soon as something is submitted
+- we will do workshops, delivered by individual speakers, applications via CfP
 
 ## Project Team
 
