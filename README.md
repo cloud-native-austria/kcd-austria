@@ -39,7 +39,7 @@ Find our [sponsoring prospectus](https://drive.google.com/file/d/1BTvt8IpZFnhstS
 |--------------------------------------------------------------|--------------------------------|
 | [Coordination Team](./ROLES.md#coordinator-role):            | @erikauer <BR> @jgrumboe    |
 | [Finance Team](./ROLES.md#finance-role):                     | @erikauer <BR> @tomstagl       |
-| [Marketing Team](./ROLES.md#marketing-role):                 | @henrikrexed <BR> @duffleit <BR> @KatharinaSick |
+| [Marketing Team](./ROLES.md#marketing-role):                 | @henrikrexed <BR> @duffleit <BR> @KatharinaSick <BR> @holistic-developer |
 | [Speaker Organizer Team](./ROLES.md#speaker-organiser-role): | @henrikrexed <BR> @DrackThor <BR> Constanze <BR> @julianocosta89 @grabnerandi |
 | [Sponsor Organizer Team](./ROLES.md#sponsor-organiser-role): | @tomstagl <BR> @jgrumboe <BR> Constanze |
 | [Venue Organizer Team](./ROLES.md#venue-organiser-role):     | @jgrumboe <BR> @DrackThor <BR> @erikauer |
