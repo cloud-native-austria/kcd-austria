@@ -7,7 +7,7 @@
 
 ## Protocol
 
-- Slide deck: David prepared a talk preview slide, Henrik will add a placeholder for the speaker pic as well
+- Slide deck: David prepared a talk [preview slide](https://docs.google.com/presentation/d/1Awp32k7t5Mdiz-XwmIji0datMLwUErQB/edit#slide=id.p1), Henrik will add a placeholder for the speaker pic as well.
 - Session announcements:
   - Social Media banners are prepared and available in the Sessionize profile -> Speaker team (Henrik) will inform speakers via Mail
     - Add a template post to the mail
